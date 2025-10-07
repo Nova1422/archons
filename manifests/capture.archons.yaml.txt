@@ -2,7 +2,7 @@ name: capture.archons
 authors: Nova.
 homepage: https://github.com/Nova1422/archons
 license: Custom
-version: v1
+version: v1.0
 shortDescription: Spawns captureable Archon ships
 description: >
   Spawns captureable Archon ships in the system "Persitar" every ten minutes.
