@@ -5,7 +5,7 @@ government "Drak (C)"
 
 
 system "Persitar"
-		government "Drak (C)"
+	government "Drak (C)"
 	fleet "ArchonF" 36000
 
 fleet "ArchonF"
